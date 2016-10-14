@@ -21,3 +21,8 @@ run
 
 ## Run tests
 `npm test`
+
+## If you're interested in finding an entrance to a rabbit's hole
+DataArt - value - x
+YourGitHubNickname - value - x
+(show result) (+contributor)
